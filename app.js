@@ -42,7 +42,7 @@
 // <p><strong>Percentage:</strong> ${percentageCheck}</p>
 // <p><strong>Grade:</strong> ${grade}</p>`);l
 
-//  Brand and model data
+
 //qns no 2
 
 let mobileData = {
@@ -87,7 +87,7 @@ let mobileData = {
       operatingSystem: "iphone 8",
       specialFeatures: ["S Pen support", "Ultrasonic fingerprint sensor"],
     },
-    // Add other models similarly...
+    
   },
   xiomi: {
     redmiA2: {
@@ -116,7 +116,7 @@ let mobileData = {
       operatingSystem: "Android 12",
       specialFeatures: ["Wireless charging", "In-display fingerprint sensor"],
     },
-    // Add other models similarly...
+    
   },
   realme: {
     realmiNote50: {
@@ -150,7 +150,7 @@ let mobileData = {
         "3.5mm headphone jack",
       ],
     },
-    // Add other models similarly...
+   
   },
   samsung: {
     samsung_Galaxy_S24: {
